@@ -12,5 +12,4 @@ What things you need to install:
 - Google Chrome
 
 ## Result
-Result of automation testing [here](https://sucinm.github.io/OrangeHRM-Web-Automation-Testing/report/cucumber-html-reports/overview-features.html)
-or [here](https://htmlpreview.github.io/?https://github.com/sucinm/OrangeHRM-Web-Automation-Testing/blob/main/report/cucumber-html-reports/overview-features.html)
+Result of automation testing [here](https://sucinm.github.io/OrangeHRM-Web-Automation-Testing/report/cucumber-html-reports/overview-features.html).
