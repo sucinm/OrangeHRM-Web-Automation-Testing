@@ -11,6 +11,7 @@ public class WebDriverInstance {
 
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--no-sandbox", "--disable-dev-shm-usage", "--incognito", "--start-maximized", "window-size=1920,1080");
+        options.addArguments("--remote-allow-origins=*");
         options.setHeadless(true);
         WebDriverManager.chromedriver().setup();
 
